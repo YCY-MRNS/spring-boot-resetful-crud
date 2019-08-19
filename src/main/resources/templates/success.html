@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<!--取出hello 不转义-->
+<h4 th:utext="${hello}"></h4>
+<!--取出hello 转义-->
+<h4 th:text="${hello}"></h4>
+<!--遍历数组 显示在同一个标签中-->
+<h4 th:each="user:${users}" th:text="${user}"></h4>
+<!--遍历数组 分开显示-->
+<h3>
+    <span th:each="user:${users}">[[${user}]]</span>
+</h3>
+
+</body>
+</html>

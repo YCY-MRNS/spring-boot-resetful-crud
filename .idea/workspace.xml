@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="706ab128-000d-4462-8675-bc613b57a2bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-boot-restful-crud" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PEUws1frs4PtU197kM7EudfEqz" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-resetfu-crud\src\main\resources\templates\commons" />
+      <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-resetfu-crud\src\main\resources\templates\emp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-resetfu-crud\src\main\resources\templates\error" />
+      <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-resetfu-crud\src\main\resources\templates\emp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-resetfu-crud\src\main\resources\public" />
+      <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-resetfu-crud\src\main\resources\static" />
+      <recent name="C:\Users\Administrator\IdeaProjects\spring-boot-resetfu-crud\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootResetfuCrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-restful-crud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changyue.springbootresetfucrud.SpringBootRestfulCrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="706ab128-000d-4462-8675-bc613b57a2bd" name="Default Changelist" comment="" />
+      <created>1563335309459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563335309459</updated>
+      <workItem from="1563335312325" duration="135000" />
+      <workItem from="1563336400478" duration="1527000" />
+      <workItem from="1563342610895" duration="6037000" />
+      <workItem from="1563367798427" duration="1632000" />
+      <workItem from="1563440412682" duration="13490000" />
+      <workItem from="1563462378855" duration="683000" />
+      <workItem from="1563493664737" duration="10244000" />
+      <workItem from="1565439001051" duration="367000" />
+      <workItem from="1565442272747" duration="5582000" />
+      <workItem from="1565527289007" duration="21852000" />
+      <workItem from="1565698621893" duration="20496000" />
+      <workItem from="1566175719206" duration="16455000" />
+      <workItem from="1566201412314" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
